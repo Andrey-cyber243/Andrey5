@@ -1,6 +1,5 @@
 my_string=input('Как ваше здоровье?:')
 print(len(my_string))
-#print(len('Как ваше здоровье?:'))
 print('Как ваше здоровье?:'.upper())
 print('Как ваше здоровье?:'.lower())
 print('Как ваше здоровье?:'.replace(' ','#'))
